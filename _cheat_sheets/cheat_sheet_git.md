@@ -1,6 +1,6 @@
 #git
 
-###You need to add a relative link
+###Add a relative link
 
 [my link](url for the link)
 
