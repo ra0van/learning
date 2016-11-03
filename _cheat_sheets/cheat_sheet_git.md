@@ -4,4 +4,4 @@
 
 [my link](url for the link)
 
-\[my link](url for the link)\
+\[my link](url for the link)
