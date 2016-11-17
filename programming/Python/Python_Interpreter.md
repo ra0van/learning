@@ -54,6 +54,7 @@ _lnotab', 'co_name', 'co_names', 'co_nlocals', 'co_stacksize', 'co_varnames']
 ```
 >dir() is an in-built python function, which tries to give some info about the object like the attributes in that module
 namespace.
+
 Even i don't understand a bunch of that stuff, but the blog post which i am referring to asks us to look at three attributes.
 ```python
 >>> foo.func_code.co_varnames
