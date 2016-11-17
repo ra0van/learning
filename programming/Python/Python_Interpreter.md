@@ -1,6 +1,6 @@
 # Introduction to python interpreter (Python 2.7)
 >gist of the blog on python interpreter from http://akaptur.com/
-___
+
 
 ## Functions and objects
 ```python
