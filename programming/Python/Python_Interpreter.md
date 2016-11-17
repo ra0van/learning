@@ -4,8 +4,9 @@
 
 ## Functions and objects
 ```python
-a = "hello"
+>>> a = "hello"
 ```
+>What exactly happens when i press enter after typing in this code?? :unamused:
 
 Four steps happen when that line of code is to be excuted: lexing,parsing,compiling and interpreting.
 __**Lexing**__ is breaking of the code you just typed into tokens. The __**parser**__ takes these tokens and 
