@@ -82,4 +82,24 @@ So what is *bytecode*? Well, it's just a series of bytes(duh!). Most of them are
 [100, 1, 0, 125, 1, 0, 100, 0, 0, 83]
 ```
 The interpreter loops through each of these bytes, look up what it should do and do that thing. Bytecode doesn't include any python objects,references to objects or anything like that. One way to understand what these numbers mean to interpreter is to look through the CPython interpreter file (```ceval.c```). 
+####Disassembling bytecode
+We will be using ```dis``` module to look at the disassembling bytecode. Disassembling means taking a series of byte codes and print out something human readable. We'll use ```dis.dis()``` function to analyze the code objects of our function ```foo()```. These are nothing but a series of stack operations for the interpreter to do.
 
+```python
+>>> def foo(a):
+...  x=3
+...  return 3
+...
+>>> import dis
+>>> dis.dis(foo.func_code)
+  2           0 LOAD_CONST               1 (3)
+              3 STORE_FAST               1 (x)
+
+  3           6 LOAD_CONST               1 (3)
+              9 RETURN_VALUE
+```
+>You can see ```dis.dis(foo)``` also doing the same thing. It's just convenience. 
+The  numbers in the left-hand side are the line numbers in the original code. The second column is the offset into the bytecode. The middle column shows the name of the bytes, which are clearly for human interpretation. The interpreter doesn't benefit from these names.
+
+The last two columns give information about the instructions's argument,only if there is an argument. Fourth column shows the argument
+index and the last column is the argument itself. If you look at our function ```foo(a)```, we are passing arg ```a``` but we have never used ```a```, we have used a second argument ```x```. That is what the fourth column shows, the argument index(0 is for ```a``` and ```1 ``` is for x.
