@@ -102,4 +102,4 @@ We will be using ```dis``` module to look at the disassembling bytecode. Disasse
 The  numbers in the left-hand side are the line numbers in the original code. The second column is the offset into the bytecode. The middle column shows the name of the bytes, which are clearly for human interpretation. The interpreter doesn't benefit from these names.
 
 The last two columns give information about the instructions's argument,only if there is an argument. Fourth column shows the argument
-index and the last column is the argument itself. If you look at our function ```foo(a)```, we are passing arg ```a``` but we have never used ```a```, we have used a second argument ```x```. That is what the fourth column shows, the argument index(0 is for ```a``` and ```1 ``` is for x.
+index and the last column is the argument itself. If you look at our function ```foo(a)```, we are passing arg ```a``` but we have never used ```a```, we have used a second argument ```x```. That is what the fourth column shows, the argument index 0 is for ```a``` and 1 is for ```x```.
