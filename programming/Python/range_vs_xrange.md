@@ -40,6 +40,6 @@ The advantage of `xrange()` over `range()` is minimal when the size of the range
 >>>
 ```
 
-Whoa! :astonished: 
+Whoa! :shit:  
 
 
