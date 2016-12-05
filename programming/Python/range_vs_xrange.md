@@ -42,4 +42,7 @@ The advantage of `xrange()` over `range()` is minimal when the size of the range
 
 Whoa! :shit:  
 
+[Implementing ```xrange()``` ](https://github.com/dcrosta/xrange/blob/master/xrange.py)
+
+
 
