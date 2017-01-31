@@ -1,7 +1,7 @@
 # git cheat sheets
 
 ## Table of contents
-- [branch](https://github.com/rajsherror404/Lifelong_Learning/edit/master/_cheat_sheets/git_cheat_sheet.md#branch)
+- [branch](https://github.com/rajsherror404/Lifelong_Learning/edit/master/_cheat_sheets/git_cheat_sheet#branch)
 
 
 branch
