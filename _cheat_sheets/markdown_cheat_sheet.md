@@ -1,4 +1,4 @@
-#git
+#Markdown cheat sheet
 
 ###Add a relative link
 
