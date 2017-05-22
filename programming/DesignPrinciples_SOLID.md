@@ -12,5 +12,9 @@ Every class or module of a software should have responsibility over a single par
 ### Open/Close principle ###
 A class should be open for extension, but closed for modification. 
 Open/Close principle can be ensured by the use of abstract classes and concrete classes for implementing the behaviour of abstract classes.
-This ensures that concrete classes extending abstract classes, instead of changing them. Some examples of this are Template Pattern and Strategy Pattern.
+This ensures that concrete classes extend the abstract classes, instead of changing them. Some examples of this are Template Pattern and Strategy Pattern.
+
+### Liskov Substitution principle ###
+Functions that uses pointers or references to base class must be able to use objects of derived class without knowing it.
+A typical example which violates this principle is the 
 
