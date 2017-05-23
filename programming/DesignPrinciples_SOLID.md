@@ -16,5 +16,7 @@ This ensures that concrete classes extend the abstract classes, instead of chang
 
 ### Liskov Substitution principle ###
 Functions that uses pointers or references to base class must be able to use objects of derived class without knowing it.
-A typical example which violates this principle is the 
-
+LSP is about when to extend a class vs use an other strategy to achieve your goal.
+A good example of LSP is the board & the 3D board.
+![Board & 3D-Board](https://oncodebynotmyself.files.wordpress.com/2011/03/board_thumb.png)
+When we are extedning the board class to 3d board, we have to re write all the AddUnit(),GetTile(),GetUnits(),RemoveUnits() methods because now these methods in the board class would support only the x&y co-ordinates but z co-ordinate should be supported for 3d board.
