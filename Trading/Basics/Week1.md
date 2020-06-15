@@ -35,16 +35,23 @@ Formal collection, aggregation, analysis & reporting of financial and non-financ
 Assets  = Liabilities + shareholders equity
 ```
 
-## Current Assets:
+### Current Assets:
 * Current assets are those tha are expected to be sold, converted to cash, or consumed within the next year.Everything else is non-current asset.
 * Examples: Cash, cash equivalents. It includes currency, coins, checks received but not deposited, checking accounts, petty cash, savings accounts, money market accounts and short-term highly liquid investements within the majority of three months or less at the time of purchase.
 * Examples : Marketable secuities. This inclueds investments in vaious types of financial secruities like stocks, bonds, etc. They are not as liquid as cash and cash equivalents but may be converted to cash easily.
 * The other two items that constitute curent assets are related to the company's opearions. These are inventories and accounts receivables. Inventories include all raw material that the company has bought, all working progress products as well as all finished goods.
 * The last item is the accounte receivable. It includes all the money a company's client owes it. 
 
-## Non-Current Assets:
+### Non-Current Assets:
 * The largest and most important contribution to non-current assets is plant property & equipment(PP&E).
 * The other major part of non-current assets is intangible assets which includes nonphysical assets such as patents, trademarks, copyrights, goodwill (https://www.investopedia.com/terms/g/goodwill.asp)  & brand recognition.
 * These may be worth more than the tangible assets.
 
+## Current Liabilities:
+* Obligations that are due within next one year are classified as current liabilities and everything else is called non current liabilities.
+* First item under current liabilities is accounts payable. This is how much the company owes its vendors and suppliers for products and services that they have already provided or delivered. It represents how much products and services the company has purchased on credit. These are expected to be paid off by the end of the year.
+* Second item under this category is accrued expenses. These are expenses that the company has incurred but has not yet received an invoice for. Examples of accrued expenses are wages, interest and utilities. The company has incurred these expenses as of the balance sheet data but it has not yet received an invoice for these expeneses. Wages will fall under accrued expenses, if payroll for that period has not been processed yet.
+* Third Item under this category is unearned revenue. This how much customers and clients have paid in advance for the company's products or services. This will continue to be a liability for the company until it delivers the promised products or services.
+## Non-Current Liabilites:
+* The largest contribution is from long term debt. This includes loans and bonds which are due to be paid after one year.
 
