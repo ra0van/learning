@@ -22,7 +22,6 @@ Formal collection, aggregation, analysis & reporting of financial and non-financ
 ## Financial Accounting
  - A key element of financial accounting is the idea of accurals. Financial statements are based on accruals rather than on cash basis.(What does that mean? - That is transactions are recognized on financial statements when the primary economic event occurs rather than when acutal cash flow occurs.)
  - This accrual based accounting allows the verification of earning and the net financial position of the comapny during a period. This accrual based accounting gives rise to two major financial staements namely the income statement also called a profit and loss statement and the balance sheet.
- - 
  - Accrual accounting occurs through the process of revenue recognition and matching costs to revenues. Revenue recogniotion means that a company can report revenue that is earned through the delivery of service or product can measure this revenue and is reasonably sure of receiving this revenue. 
  - In a nutshell, accrual accounting says that we do not have to see the cash to record a transaction. 
  
@@ -54,4 +53,11 @@ Assets  = Liabilities + shareholders equity
 * Third Item under this category is unearned revenue. This how much customers and clients have paid in advance for the company's products or services. This will continue to be a liability for the company until it delivers the promised products or services.
 ## Non-Current Liabilites:
 * The largest contribution is from long term debt. This includes loans and bonds which are due to be paid after one year.
+## Shareholders' Equity:
+* Shareholders' equity also referred to as net worth. It represents the total equity interest of all the companies shareholders. It mainly includes preferred equity, common equity, treasury stock and retained earnings.T
+* Common equity is most important form of equity. Shareholders' having common equity have voting rights and hence, are the companies owners. They have the right to select the board of directors, which then appoints the different CXOs who in turn manage the day to day operations of the company.
+* When a company sends common shares to the shareholders, the shares are usually sold at a value higher than its par value. The company receives the premium in the form of cash and hence must be recorded on the balance sheet. This is recorded as additional paid capital. It is the premium over the par value that the company receives at the time of the sale of shares to the public. 
+* Treasury stock represents common stock that a company buys back from common shareholders or were authorized but was never sold to shareholders. This is recorded as cost.
+* Preferred stock is another form of equity. It is the investment in the company by preferred stock holders, they have priority over common stockholders which means that company must pay them dividends before it cany pay any dividends to the common stockholders. However, preferred stockholders do not have any voting rights in the company.
+* The other important component of shareholder's equity on the balance sheet is retained earnings. This is an aggregate of undistributed profits across all years. The manager has discretion as to how much, if any, of the profits a company makes should be distributed to shareholders, both common and preferred as dividends. Any part of the profits that is not paid out as dividends is added to the balance sheet as a part of retained earnings. 
 
